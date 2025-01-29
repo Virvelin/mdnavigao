@@ -14,17 +14,17 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f5e0e7', // Pehmeä vaaleanpunainen tausta
+    backgroundColor: '#f5e0e7', 
     padding: 20,
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#8e44ad', // Tummanlila väri
+    color: '#8e44ad', 
     marginBottom: 20,
-    textShadowColor: 'rgba(0, 0, 0, 0.2)', // Tekstin varjo
+    textShadowColor: 'rgba(0, 0, 0, 0.2)', 
     textShadowOffset: { width: 1, height: 1 },
     textShadowRadius: 5,
-    textAlign: 'center', // Keskittää tekstin
+    textAlign: 'center', 
   },
 });
